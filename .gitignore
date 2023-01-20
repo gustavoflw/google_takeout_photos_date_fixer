@@ -1,4 +1,5 @@
-.jpg
-.jpeg
-.mp4
-.webp
+*.jpg
+*.jpeg
+*.mp4
+*.webp
+*.json
